@@ -27,8 +27,3 @@ Developer exploring innovative and emerging technologies. Creating scalable appl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohaneskevingilangpratama)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yohanes_kevin)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yohanes123kevin123@gmail.com)
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kevin5621&style=flat-square&color=blue" alt="Profile views" />
-</div>
