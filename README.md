@@ -18,9 +18,8 @@ I’m a developer passionate about **blockchain** and **emerging technologies**,
 ## 📊 GitHub Stats
 <div align="center">
   
-![Kevin5621's Stats](https://github-readme-stats.vercel.app/api?username=Kevin5621&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![Kevin5621's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kevin5621&theme=vue-dark&hide_border=true)  
-![Kevin5621's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin5621&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Kevin5621's Stats](https://github-readme-stats.vercel.app/api?username=Kevin5621&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![Kevin5621's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kevin5621&theme=vue-dark&hide_border=true)  
+
 
 </div>
 
